@@ -1,6 +1,8 @@
 
 # 🧠 Jogo da Forca Premium · Streamlit Web App
 
+![Demonstração do jogo](screenshot.png)
+
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Online-success?logo=streamlit)](https://jogodaforcaapp.streamlit.app)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
