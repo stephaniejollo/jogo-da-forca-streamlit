@@ -1,84 +1,56 @@
-\# 🧠 Jogo da Forca Premium (Streamlit)
 
+# 🧠 Jogo da Forca Premium · Streamlit Web App
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Online-success?logo=streamlit)](https://jogodaforcaapp.streamlit.app)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Um jogo da forca interativo feito com \*\*Python\*\* e \*\*Streamlit\*\*, com interface amigável e palavras organizadas por níveis de dificuldade. Ideal para praticar vocabulário ou apenas se divertir!
-
-
-
----
-
-
-
-\## 🚀 Funcionalidades
-
-
-
-\- 🎮 Jogo interativo com interface web
-
-\- 🧩 Níveis de dificuldade (fácil, médio, difícil)
-
-\- 📊 Contagem de tentativas e letras usadas
-
-\- 🤖 Sugestão automática de letras erradas
-
-\- 📱 Totalmente responsivo (funciona no celular)
-
-
+Um jogo da forca interativo feito com **Python** e **Streamlit**, com interface moderna e palavras desafiadoras. Ideal para treinar vocabulário ou se divertir sozinho ou em grupo!
 
 ---
 
+## 🚀 Funcionalidades
 
+- 🧩 Escolha entre jogar com ou sem dica  
+- 💡 Palavras com acentos e dicas contextuais  
+- 👩‍💻 Interface responsiva (web e mobile)  
+- 🎯 Registro automático de letras já tentadas  
+- 🔄 Reinício automático após vitória ou derrota
 
-\## 💻 Como instalar e rodar localmente
+---
 
-
+## 💻 Como instalar e rodar localmente
 
 > Pré-requisitos: Python 3.9+ instalado
 
-
-
 ```bash
-
 git clone https://github.com/stephaniejollo/jogo-da-forca-streamlit.git
-
 cd jogo-da-forca-streamlit
-
-python -m venv forca\_env
-
-forca\_env\\Scripts\\activate
-
+python -m venv forca_env
+forca_env\Scripts\activate
 pip install -r requirements.txt
+streamlit run jogo_forca_web.py
+```
 
-streamlit run jogo\_forca\_web.py
+---
 
+## ✅ Exemplo de uso
 
+Ao rodar o projeto, uma interface será aberta no navegador onde você poderá:
 
-✅ Exemplo de uso
+- ✅ Escolher se deseja dica  
+- 🔠 Digitar letras para adivinhar a palavra  
+- 📉 Acompanhar o número de tentativas restantes  
+- 🥇 Jogar novamente ao vencer ou perder
 
-Você verá uma tela no navegador com o jogo da forca e poderá:
+---
 
+## 🌐 Versão online
 
+👉 Acesse agora: [https://jogodaforcaapp.streamlit.app](https://jogodaforcaapp.streamlit.app)
 
-Escolher o nível de dificuldade
+---
 
+## 📄 Licença
 
-
-Clicar nas letras para adivinhar
-
-
-
-Ver a forca sendo desenhada a cada erro
-
-
-
-🌐 Versão online
-
-🔗 https://jogodaforcaapp.streamlit.app/
-
-
-
-📄 Licença
-
-Este projeto está sob a licença MIT.
-
+Este projeto está sob a licença MIT.  
+Sinta-se livre para usar, modificar e compartilhar!
