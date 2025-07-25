@@ -74,7 +74,7 @@ Ver a forca sendo desenhada a cada erro
 
 🌐 Versão online
 
-🔗 https://jogo-da-forca.streamlit.app (exemplo — atualize se publicar)
+🔗 https://jogodaforcaapp.streamlit.app/
 
 
 
