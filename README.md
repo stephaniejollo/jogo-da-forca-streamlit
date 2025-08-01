@@ -6,7 +6,7 @@
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Online-success?logo=streamlit)](https://jogodaforcaapp.streamlit.app)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Um jogo da forca interativo feito com **Python** | ** Biblioteca Streamlit**, com interface moderna e palavras desafiadoras. Ideal para treinar vocabulário ou se divertir sozinho ou em grupo!
+Um jogo da forca interativo feito com **Python** | **Biblioteca Streamlit**, com interface moderna e palavras desafiadoras. Ideal para treinar vocabulário ou se divertir sozinho ou em grupo!
 
 ---
 
